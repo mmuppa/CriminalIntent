@@ -5,4 +5,8 @@
     <string name="crime_title_label">Title</string>
     <string name="crime_details_label">Details</string>
     <string name="crime_solved_label">Solved?</string>
+    <string name="title_activity_crime_activity_dynamic">CrimeActivityDynamic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 </resources>
